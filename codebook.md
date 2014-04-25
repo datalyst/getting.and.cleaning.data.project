@@ -40,7 +40,7 @@ and activity
 The remaining 66 variables describe physical measurements. We will discuss
 related variables collectively.
 
-* `time.body.acceleratio`n (8 variables: `.mean.X`, `.std.X`, `.mean.Y`, `.std.Y`,
+* `time.body.acceleration` (8 variables: `.mean.X`, `.std.X`, `.mean.Y`, `.std.Y`,
   `.mean.Z`, `.std.Z`, `.magnitude.mean`, `.magnitude.std`)
 
   The accelerometer provides a 3d vector of acceleration; this vector can be
